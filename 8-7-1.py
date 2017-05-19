@@ -1,7 +1,7 @@
-#coding:gbk
+#coding:utf-8
 from random import randint
-game=r'E:\OPS\¼¼Êõ\pylearn\crossin\game.txt'
-name=raw_input('ÇëÊäÈëÄãµÄÃû×Ö:')
+game=r'E:\OPS\test\pylearn\crossin\game.txt'
+name=raw_input('è¯·è¾“å…¥ä½ çš„åå­—:')
 with open(game) as r:
     scores={}
     lines=r.readlines()
@@ -19,21 +19,32 @@ if game_times > 0:
 else:
     avg_times = 0
 print type(game_times),type(min_times),type(avg_times)
-print '%s,ÄãÒÑ¾­ÍæÁË%d´Î£¬×îÉÙ%dÂÖ²Â³ö´ğ°¸£¬Æ½¾ù%.2fÂÖ²Â³ö´ğ°¸' % (name,game_times,min_times,avg_times)
+print '%s,ä½ å·²ç»ç©äº†%dæ¬¡ï¼Œæœ€å°‘%dè½®çŒœå‡ºç­”æ¡ˆï¼Œå¹³å‡%.2fè½®çŒœå‡ºç­”æ¡ˆ' % (name,game_times,min_times,avg_times)
 num = randint(1,100)
 times =0
 print 'Guess what i think?'
 bingo = False
+def check_answer(answer):
+    try:
+        answer = int(answer)
+            if answer <= 0 or answer > 100:
+                break
+    except Exception:
+        answer = raw_input('è¯·è¾“å…¥1-100çš„æ•°å­—ï¼ˆè¾“å…¥äº†å­—ç¬¦ä¸²æˆ–è€…è¶…å‡ºèŒƒå›´ï¼‰ï¼š')
+
+
 while bingo == False:
+    answer=raw_input('è¯·è¾“å…¥1-100çš„æ•°å­—:')
     times += 1
-    answer = input()
+    print 'ç¬¬%dæ¬¡' % times
     if answer < num:
         print 'too small!'
     if answer > num:
         print 'too big!'
     if answer == num:
         print 'BINGO!'
-        bingo=True
+        bingo = True
+
 if game_times ==0 or times < min_times:
     min_times = times
 total_times += times
@@ -45,5 +56,5 @@ for n in scores:
     result += line
                         
 #result = '%d %d %d'%(game_times,min_times,total_times)
-with open(r'E:\OPS\¼¼Êõ\pylearn\crossin\game.txt','w') as outf:
+with open(r'E:\OPS\test\pylearn\crossin\game.txt','w') as outf:
     outf.write(result)
