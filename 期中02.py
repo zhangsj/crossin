@@ -1,7 +1,7 @@
 #coding:utf-8
 from random import randint
-game=r'E:\OPS\test\pylearn\crossin\game.txt'
-name=raw_input('请输入你的名字:')
+# game=r'E:\OPS\test\pylearn\crossin\game.txt'
+# name=raw_input('请输入你的名字:')
 def re():
     with open(game) as r:
         scores={}
@@ -63,7 +63,7 @@ def cai():
 # coding:utf-8
 from random import randint
 
-game = r'E:\OPS\test\pylearn\crossin\game.txt'
+game = 'game.txt'
 name = raw_input('请输入你的名字:')
 with open(game) as r:
     scores = {}
@@ -88,17 +88,24 @@ times = 0
 print 'Guess what i think?'
 bingo = False
 while bingo == False:
-    times += 1
-    answer = input()
-    if type(answer) !== int:
+    while True:
+        answer = raw_input('请输入1-100的数字:')
+        if answer.isdigit():
+            answer=int(answer)
+            if  1 <= answer <= 100:
+                times += 1
+                print times
+                if answer < num:
+                    print 1
+                    print 'too small!'
+                if answer > num:
+                    print 'too big!'
+                if answer == num:
+                    print 'BINGO!'
+                    bingo = True
+        else:
+            break
 
-    if answer < num:
-        print 'too small!'
-    if answer > num:
-        print 'too big!'
-    if answer == num:
-        print 'BINGO!'
-        bingo = True
 if game_times == 0 or times < min_times:
     min_times = times
 total_times += times
@@ -112,23 +119,23 @@ for n in scores:
     result += line
 
 
-
-if not name:
-    print '不记名游戏（不保存记录）'
-    game_times = 0
-    min_times = 0
-    total_times = 0
-    cai()
-
-
-else:
-    name=re()[0]
-    game_times = re()[1]
-    min_times = re()[2]
-    total_times = re()[3]
-    avg_times = total_times / game_times
-    print '%s,你已经玩了%d次，最少%d轮猜出答案，平均%.2f轮猜出答案' % (name, game_times, min_times, avg_times)
-    cai()
-    # result = '%d %d %d'%(game_times,min_times,total_times)
-    with open(r'E:\OPS\test\pylearn\crossin\game.txt', 'w') as outf:
-        outf.write(result)
+#
+# if not name:
+#     print '不记名游戏（不保存记录）'
+#     game_times = 0
+#     min_times = 0
+#     total_times = 0
+#     cai()
+#
+#
+# else:
+#     name=re()[0]
+#     game_times = re()[1]
+#     min_times = re()[2]
+#     total_times = re()[3]
+#     avg_times = total_times / game_times
+#     print '%s,你已经玩了%d次，最少%d轮猜出答案，平均%.2f轮猜出答案' % (name, game_times, min_times, avg_times)
+#     cai()
+#     # result = '%d %d %d'%(game_times,min_times,total_times)
+#     with open(r'E:\OPS\test\pylearn\crossin\game.txt', 'w') as outf:
+#         outf.write(result)
