@@ -1,0 +1,15 @@
+Traceback (most recent call last):
+  File "02.py", line 5, in <module>
+EOFError: EOF when reading a line
+Traceback (most recent call last):
+  File "02.py", line 5, in <module>
+EOFError: EOF when reading a line
+Traceback (most recent call last):
+  File "02.py", line 5, in <module>
+UnicodeDecodeError: 'gbk' codec can't decode bytes in position 20-21: illegal multibyte sequence
+Traceback (most recent call last):
+  File "02.py", line 5, in <module>
+EOFError: EOF when reading a line
+Traceback (most recent call last):
+  File "02.py", line 5, in <module>
+EOFError: EOF when reading a line

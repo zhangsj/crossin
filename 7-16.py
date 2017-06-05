@@ -18,4 +18,4 @@ s=','.join(pai[51:])
 print 'aµÄÅÆ: '+a
 print 'bµÄÅÆ: '+b
 print 'cµÄÅÆ: '+c
-print 'µ×ÅÆ: '+s
+print 'µ×ÅÆ: '+c

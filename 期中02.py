@@ -1,8 +1,8 @@
-
+#coding:gbk
 from random import randint
 
 game = 'game.txt'
-name = raw_input('è¯·è¾“å…¥ä½ çš„åå­—:')
+name = raw_input('ÇëÊäÈëÄãµÄÃû×Ö:')
 while True:
     with open(game) as r:
         scores = {}
@@ -13,54 +13,63 @@ while True:
         score = scores.get(name)
         if score is None:
             score = [0, 0, 0]
-            print 'æ¬¢è¿%sé¦–æ¬¡æ¥ç©ï¼'% name
+            game_times = int(score[0])
+            min_times = int(score[1])
+            total_times = int(score[2])
+            print '»¶Ó­%sÊ×´ÎÀ´Íæ£¡'% name
         else:
             game_times = int(score[0])
             min_times = int(score[1])
             total_times = int(score[2])
             avg_times = float(total_times) / game_times
-            print 'æ¬¢è¿%sï¼Œç¥ä½ æ¸¸æˆæ„‰å¿«ï¼\nä½ å·²ç»ç©äº†%dæ¬¡ï¼Œæœ€å°‘%dè½®çŒœå‡ºç­”æ¡ˆï¼Œå¹³å‡%.2fè½®çŒœå‡ºç­”æ¡ˆ' % (name, game_times, min_times, avg_times)
+            print '»¶Ó­%s×£ÄãÓÎÏ·Óä¿ì£¡\nÄãÒÑ¾­ÍæÁË%d´Î£¬×îÉÙ%dÂÖ²Â³ö´ğ°¸£¬Æ½¾ù%.2fÂÖ²Â³ö´ğ°¸' % (name, game_times, min_times, avg_times)
     num = randint(1, 100)
     times = 1
-    print 'ä½ çŒœæ˜¯å‡ ?'
+    print 'Äã²ÂÊÇ¼¸',num
     bingo = False
     while bingo == False:
         while True:
-            print 'ç¬¬%dæ¬¡' % times
-            answer = raw_input('è¯·è¾“å…¥1-100çš„æ•°å­—:')
+            print 'µÚ %d ´Î' % times
+            answer = raw_input('ÇëÊäÈë1-100µÄÊı×Ö:')
             if answer.isdigit():
                 answer=int(answer)
                 if  1 <= answer <= 100:
                     print answer
-                    times += 1
+
                     # print times
                     if answer < num:
-                        print '%d å¤ªå°äº†!\n' % answer
+                        print '%d Ì«Ğ¡ÁË!\n' % answer
                     if answer > num:
-                        print '%d å¤ªå¤§äº†!\n' % answer
+                        print '%d Ì«´óÁË!\n' % answer
                     if answer == num:
-                        print 'çŒœä¸­äº†ï¼ï¼ç­”æ¡ˆå°±æ˜¯%d \n' % answer
+                        print '²ÂÖĞÁË£¡£¡´ğ°¸¾ÍÊÇ%d \n' % answer
                         bingo = True
                         break
+                    times += 1
             else:
                 break
-
-    if game_times == 0 or times < min_times:
-        min_times = times
     total_times += times
     game_times += 1
+    if game_times == 1:
+        min_times = times
+        avg_times = times
+    else:
+        avg_times=float(total_times)/game_times
+    if  times < min_times:
+        min_times = times
     scores[name] = [str(game_times), str(min_times), str(total_times)]
-    print 'æ­å–œä½ çŒœä¸­äº†ç­”æ¡ˆå°±æ˜¯%d' % num
-    print 'ä½ ä¸€å…±ç”¨äº†%dæ¬¡æœºä¼š\nä½ ä¸€å…±å®Œäº†%dæ¬¡æ¸¸æˆ\nä½ å¹³å‡%.2fæ¬¡çŒœä¸­ç­”æ¡ˆ\nä½ æœ€å¥½çš„æˆç»©æ˜¯%dæ¬¡ï¼\n' % (total_times, game_times, avg_times, min_times)
+    print '¹§Ï²Äã²ÂÖĞÁË´ğ°¸¾ÍÊÇ  %d' % num
+    print 'ÄãÒ»¹²²ÂÁË %d ´Î\nÄãÒ»¹²ÍêÁË%d´ÎÓÎÏ·\nÄãÆ½¾ù%.2f´Î²ÂÖĞ´ğ°¸\nÄã×îºÃµÄ³É¼¨ÊÇ%d´Î£¡\n' % (total_times, game_times, avg_times, min_times)
     result = ''
     for n in scores:
         line = n + ' ' + ' '.join(scores[n]) + '\n'
         result += line
     with open(r'game.txt', 'w') as outf:
         outf.write(result)
-    g=raw_input('è¾“å…¥â€œgoâ€å†ç©ä¸€æ¬¡ï¼Œå¦åˆ™é€€å‡ºæ¸¸æˆ')
+    g=raw_input('ÊäÈë¡°go¡±ÔÙÍæÒ»´Î£¬·ñÔòÍË³öÓÎÏ·   ')
     if g=='go':
-        print "æ–°æ¸¸æˆ"
+        print 'ĞÂÓÎÏ·'
         continue
     else:
         break
+    break
