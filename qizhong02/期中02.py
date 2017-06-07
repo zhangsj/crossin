@@ -1,10 +1,9 @@
 #coding:gbk
 from random import randint
 
-game = 'game.txt'
 name = raw_input('请输入你的名字:')
 while True:
-    with open(game) as r:
+    with open('game.txt','a+') as r:
         scores = {}
         lines = r.readlines()
         for l in lines:
@@ -16,7 +15,8 @@ while True:
             game_times = int(score[0])
             min_times = int(score[1])
             total_times = int(score[2])
-            print '欢迎%s首次来玩！'% name
+            print '欢迎\t'
+            print '欢迎', name, '首次来玩！'
         else:
             game_times = int(score[0])
             min_times = int(score[1])
@@ -58,7 +58,7 @@ while True:
     if  times < min_times:
         min_times = times
     scores[name] = [str(game_times), str(min_times), str(total_times)]
-    print '恭喜你猜中了答案就是  %d' % num
+    print '恭喜你猜中了答案就是',num
     print '你一共猜了 %d 次\n你一共完了%d次游戏\n你平均%.2f次猜中答案\n你最好的成绩是%d次！\n' % (total_times, game_times, avg_times, min_times)
     result = ''
     for n in scores:
