@@ -13,7 +13,7 @@ for l in lines:
         # print n
         s+=int(n)
         # print l
-    p=s/len(l[1:])
+    p=float('%.1f' % (float(s)/len(l[1:])))
     new_l=['不及格' if int(x) < 60 else x for x in l[1:]]
     new2.insert(0,l[0])
     new3=new2+new_l+[str(s),str(p)]
