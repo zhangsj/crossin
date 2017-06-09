@@ -12,6 +12,7 @@ def init_bill(lszd,zcfzb):
     if not os.path.exists(lszd):
         with open(lszd,'w') as f:
             f.write('交易对象\t收入/W\t支出/W\t应收账款/W\t应出帐款/W\t交易日期\n')
+            print '首次使用！！初始化完成'
             # f.write('%s\t%s\t%s\t%s\t%s\t%s\n' % (0,0,0,0,0,'2000-01-01'))
 def read_file(self):
     with open(self,'r') as f:
@@ -64,15 +65,17 @@ def jz(lszd,zcfzb):
             newfz=int(zc)+int(yc)
             newjzc=newzc-newfz
             newfzb='\n' + time.strftime('%Y-%m-%d', time.localtime()) + '\t' + str(newzc) + '\t' + str(newfz) + '\t' + str(newjzc)
-        syjl = gxfz.readlines()
-        zxjl = syjl[-1].split()
-        newzc = int(zxjl[1]) + int(sr) - int(zc)
-        newfz = int(zxjl[2]) + int(yc) - int(ys)
-        newjzc = newzc - newfz
-        newfzb = '\n' + time.strftime('%Y-%m-%d', time.localtime()) + '\t' + str(newzc) + '\t' + str(newfz) + '\t' + str(newjzc)
-        gxfz.write(newfzb)
+            gxfz.write(newfzb)
+        else:
+            syjl = gxfz.readlines()
+            zxjl = syjl[-1].split()
+            newzc = int(zxjl[1]) + int(sr) - int(zc)
+            newfz = int(zxjl[2]) + int(yc) - int(ys)
+            newjzc = newzc - newfz
+            newfzb = '\n' + time.strftime('%Y-%m-%d', time.localtime()) + '\t' + str(newzc) + '\t' + str(newfz) + '\t' + str(newjzc)
+            gxfz.write(newfzb)
 def cz():
-    while True:
+    # while True:
         c = raw_input('\t查账模式\n1.查询最近十笔交易记录\n2.查询与某公司交易往来\n3.查询最近资产负债状况\n请选择查询内容：')
         if c.isdigit():
             c=int(c)
@@ -87,7 +90,7 @@ def cz():
                 return False
             else:
                 print '输入选择数字1/2/3'
-                continue
+                # continue
         else:
             print '输入错误!!'
 
@@ -97,16 +100,18 @@ def main():
         service_id = raw_input("请选择服务：")
         if service_id.strip():
             service_id = service_id.strip()
-            if service_id == "1" or service_id == "2" or service_id == "3":
-                break
-            else:
-                print("请输入正确的服务类型（1 查账；2 记账；3 退出程序）")
             if service_id == "1":
                 cz()
             elif service_id == "2":
                 jz(lszd,zcfzb)
             elif service_id == "3":
                 return False
+            else:
+                print ("请输入正确的服务类型（1 查账；2 记账；3 退出程序）")
         else:
             print ("请输入正确的服务类型（1 查账；2 记账；3 退出程序）")
-main()
+if __name__ == '__main__':
+    if not os.path.exists(zcfzb):
+        init_bill(lszd,zcfzb)
+    else:
+        main()
