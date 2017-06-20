@@ -3,8 +3,7 @@ import json,urllib2,requests
 from gzip import GzipFile
 from StringIO import StringIO
 import zlib
-# city=raw_input('请输入城市：')
-url='http://wthrcdn.etouch.cn/weather_mini?city=%s' % '郏县'
+
 #如果gzip解压
 def loadData(url):
     request = urllib2.Request(url)
