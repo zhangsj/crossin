@@ -18,7 +18,7 @@ def get_pagenum(url):
 
 def find_images(url):
     html=getpic(url)
-    img_src0=re.findall(r'(<img\ssrc=.*.gif|<img\ssrc=.*.jpg|<img\ssrc=.*.png)', html)
+    img_src0=re.findall(r'((<img\ssrc|\sorg_src)="//.{,80}.(gif|jpg|png))', html)
     print img_src0
     #从包含图片源地址的这一段字符串中提取图片的源地址
     img_src1=[img_src[12:] for img_src in img_src0]
