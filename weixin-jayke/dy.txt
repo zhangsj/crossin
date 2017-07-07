@@ -1,0 +1,816 @@
+<html lang="zh-cn">
+<head>
+<meta name="viewport" content="initial-scale=1, user-scalable=0, minimal-ui" charset="UTF-8">
+<title>æµéå</title>
+<meta name="keywords" content="æµéå,æµéåçµå½±,æµéåçµå½±é¢,ç¾å§,è¡å°¸èµ°è,å¤ªé³">
+<meta name="description" content="å¾®ä¿¡æµéåçµå½±,æ¯æ¥ä¸ºæ¨æ¨èçµå½±èµè®¯è¯è®ºåæ­æ¾è¿æ¥">
+<meta content="telephone=no" name="format-detection">
+<meta http-equiv="Cache-Control" content="no-siteapp">
+<meta http-equiv="Cache-Control" content="no-transform">
+<link href="http://fuck.yunruiad.net/weixin/game1/js/movie.css" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="http://fuck.yunruiad.net/weixin/game1/js/jqy.js?ab123"></script>
+<script type="text/javascript" src="http://fuck.yunruiad.net/weixin/game1/js/mpp.js?ab123"></script>
+</head>
+<body>
+<script type="text/javascript">
+var u=navigator.userAgent;
+var isWeiXin=u.toLowerCase().match(/MicroMessenger/i)=="micromessenger";
+	if((location.href=='http://w.19m.tv/movie2/play.html?wx=')&&isWeiXin)
+	{
+	location.href='http://www.19m.tv/tuiguang2.php';
+	}
+echo.init({
+      offset: 100,
+      throttle: 200
+});
+
+var isWeiXin=navigator.userAgent.toLowerCase().match(/MicroMessenger/i) == 'micromessenger';
+if(isWeiXin){
+		   document.write("<a href='https://jinshuju.net/f/PWgksb' rel='noreferrer'><img data-type='gif'  width='100%' style='max-height:60px;' src='http://fuck.yunruiad.net/weixin/game1/img/banner6.jpg' <\/a>"); 
+}else
+{
+ document.write("<a href='http://weibo.com/u/5947498784'><img data-type='gif'  width='100%' style='max-height:60px;' src='http://cdn.39card.cn/weixin/game1/img/banner6.jpg'\/><\/a>"); 
+}
+</script>
+<div class="tab">
+<a href="play.html?xx" class="item cur">çµå½±</a>
+<a href="album.html?xx" class="item">ç»å¸ç³»å</a>
+<a href="tv.html?xx" class="item">å§é</a>
+</div>
+<div class="content">
+<ul class="lists picTxt picTxtA clearfix" id="movieul">
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://video.tudou.com/v/XMjgyMjMzMDcxMg==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170705bei.jpg" alt="">
+<span class="sNum">6.2
+<em class="emHot">ææ
+</em> </span> <span class="sTit">è´å°ç§å®éª</span> <span class="sDes">æ´æ°ï¼2017-7-5</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av7211711" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170705zhen.jpg" alt="">
+<span class="sNum">6.9
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">çç¸èå</span> <span class="sDes">æ´æ°ï¼2017-7-5</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://video.tudou.com/v/XMjg2ODU2MDI0MA==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170630yu.jpg" alt="">
+<span class="sNum">6.6
+<em class="emHot">æªå½
+</em> </span> <span class="sTit">çå­</span> <span class="sDes">æ´æ°ï¼2017-7-5</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av1726065" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3IyLnlraW1nLmNvbS8wNTBEMDAwMDUyQ0UwNUUzNjc1ODM5MEZBOTAzMUZGNA==&sign=yx:a9v_VH0Q29xTuGSH0kiFX7cvW-o=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.1
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">è®°å¿æå</span> <span class="sDes">æ´æ°ï¼2017-7-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av1551363/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3UxLnRkaW1nLmNvbS84LzE3Ny80L18xMDkyNDgwODYwNTc5NTYyMzY2NzUxMjE5MDk4MTMwNTc5MTA3NjguanBn&sign=yx:iiDriNcjsnpJ2YTaKULiFiy39Pg=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.8
+<em class="emHot">å²è¯
+</em> </span> <span class="sTit">äºçç</span> <span class="sDes">æ´æ°ï¼2017-7-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://video.tudou.com/v/XMjY3NDU4OTYyMA==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20161103yingxiong.jpg" alt="">
+<span class="sNum">7.0
+<em class="emHot">æ«æ¥
+</em> </span> <span class="sTit">è¯·å«æè±é</span> <span class="sDes">æ´æ°ï¼2017-7-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/243883" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzY4NjIvdmlkL2ZkYmY1Y2VmMTdlOTUwODNlZTIxYzM1ODhmY2U4NTZmLmpwZw==&sign=yx:JN5ZnvS98ssxdEH44YWleVf6gCg=&tv=250_250&x.jpg" alt="">
+<span class="sNum">9.2
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">æ¯éªç¬¬äºå­£</span> <span class="sDes">æ´æ°ï¼2017-7-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/172148" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzI5NjMvdmlkL2NhMGFiN2FiNGVjMzE3MTIzNjg5ZWExYWRjNWVmMTVhLmpwZw==&sign=yx:hUSnj4glLOYHkWudJXgfAKvZ6mI=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.4
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">æ¯éªç¬¬ä¸å­£</span> <span class="sDes">æ´æ°ï¼2017-7-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av2668552/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170703zhu.jpg" alt="">
+<span class="sNum">7.6
+<em class="emHot">ææ
+</em> </span> <span class="sTit">é»å±</span> <span class="sDes">æ´æ°ï¼2017-7-3</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av11807915" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170703rou.jpg" alt="">
+<span class="sNum">6.9
+<em class="emHot">åå§
+</em> </span> <span class="sTit">çªèé¦é¥¼</span> <span class="sDes">æ´æ°ï¼2017-7-3</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://video.tudou.com/v/XMjg1Nzk5Mzc5Mg==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170702qiu.jpg" alt="">
+<span class="sNum">6.6
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">è¯è</span> <span class="sDes">æ´æ°ï¼2017-7-2</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/431869" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzk4ODcvdmlkLzZjMGEyNjdiMGJiNGRiYzVhOGY0ZjVkODNhNTE3YzkxLmpwZw==&sign=yx:GC1szckPV1f4DHiF0vpQpYvT3SI=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.6
+<em class="emHot">åå²
+</em> </span> <span class="sTit">å¸å½çæ¯ç­</span> <span class="sDes">æ´æ°ï¼2017-7-2</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://video.tudou.com/v/XMjgyMjMxMDkwNA==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170627zui.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">åå§
+</em> </span> <span class="sTit">æåçè¯</span> <span class="sDes">æ´æ°ï¼2017-7-2</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av9040904/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170701ni.jpg" alt="">
+<span class="sNum">6.5
+<em class="emHot">ææ
+</em> </span> <span class="sTit">ä½ æ¯ä¸ä¸ä¸ª</span> <span class="sDes">æ´æ°ï¼2017-7-1</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://m.bilibili.com/video/av4007751.html#page=2" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170701xiari.jpg" alt="">
+<span class="sNum">8.6
+<em class="emHot">å¨ç»
+</em> </span> <span class="sTit">å¤æ¥å¤§ä½æ</span> <span class="sDes">æ´æ°ï¼2017-7-1</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av11629343" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170629chong.png" alt="">
+<span class="sNum">7.2
+<em class="emHot">æ³°å½ç
+</em> </span> <span class="sTit">éè¿20å²</span> <span class="sDes">æ´æ°ï¼2017-6-29</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av2420466/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS9scGljL3M2OTUyOTI1LmpwZw==&sign=yx:3fURbuEG_cjwkeLPMUarLqH8YEQ=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.0
+<em class="emHot">æ³°å½ç
+</em> </span> <span class="sTit">æ¶æ¡è±å¥³å­©</span> <span class="sDes">æ´æ°ï¼2017-6-29</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1620765" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvOWIvNjIvYzkvOTljYjI2YTk0NGMyNDlhYWRkMjAxODlhMGIuanBn&sign=yx:CJeOVuslZAQex6CFp_8Zkb2x3_8=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.2
+<em class="emHot">ç¯ç½ª
+</em> </span> <span class="sTit">å¤è¡è</span> <span class="sDes">æ´æ°ï¼2017-6-28</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://cdn.yunruiad.net/forward.html#http://www.bilibili.com/video/av8865852" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170627zui.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">ç¯ç½ª
+</em> </span> <span class="sTit">ä¸è·¯é¡ºé£</span> <span class="sDes">æ´æ°ï¼2017-6-28</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1609602" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170628mei.jpg" alt="">
+<span class="sNum">8.2
+<em class="emHot">ç¯ç½ª
+</em> </span> <span class="sTit">ç¾å½éªå±</span> <span class="sDes">æ´æ°ï¼2017-6-28</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/381835" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzg0MDEvdmlkLzYyY2Q2NTVkNWJmZTA4ZWY0MzBlMTNjZTFkYzk3OWIwLmpwZw==&sign=yx:6Z34RxFF4sox54gDW5E0YOvtgfk=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.1
+<em class="emHot">å¨ä½
+</em> </span> <span class="sTit">è¶çº§å¥³ç¹å·¥</span> <span class="sDes">æ´æ°ï¼2017-6-27</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1730754" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvOWEvMjMvYWYvOTEzNmQ0OWNjYjJiNDkxYTkwMjM4MmZiZTAuanBn&sign=yx:RElaV1argOstDjcVqyWyH3eDznY=&tv=250_250&x.jpg" alt="">
+<span class="sNum">9
+<em class="emHot">å¥å¹»
+</em> </span> <span class="sTit">ä½ çåå­</span> <span class="sDes">æ´æ°ï¼2017-6-27</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av11584303" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170624jiang.jpg" alt="">
+<span class="sNum">6.0
+<em class="emHot">é¦æ¸¯
+</em> </span> <span class="sTit">æåµæ¸éå¤«2017</span> <span class="sDes">æ´æ°ï¼2017-6-24</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/208308" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzc0NzQvdmlkLzJmNmU3NjM1NTRmYjM5ODUxZjc2ZmZlNjFkZjE5ZmYwLmpwZw==&sign=yx:n-XTvonr66ER0_E-NbkG8ATWES4=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.9
+<em class="emHot">ææ
+</em> </span> <span class="sTit">è¿·é¾çµå½±ç</span> <span class="sDes">æ´æ°ï¼2017-6-26</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1581704" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3UyLnRkaW1nLmNvbS81LzI1NC85Ny9fMzY1NDE0NjI4Njc5NjAyMzgxNDMwNjY3NTUyNjYxODUzMjEzNTUuanBn&sign=yx:2cjfpZQpOEuKRytKgtLwe_0DDIU=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">å¨ä½
+</em> </span> <span class="sTit">æ«æ¯</span> <span class="sDes">æ´æ°ï¼2017-6-26</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av723939/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzYwNjMvdmlkL2UzNTg0N2Y4MjA1NmIzNzM1Y2QyMjBhNjRiNTIyY2FlLmpwZw==&sign=yx:M1kaoWWB-1fW0joeHyisQ0Cs0zo=&tv=350_350&x.jpg" alt="">
+<span class="sNum">8.2
+<em class="emHot">ç±æ
+</em> </span> <span class="sTit">ç±ææ¯çå¨</span> <span class="sDes">æ´æ°ï¼2017-6-25</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/70" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170625dong.jpg" alt="">
+<span class="sNum">7.0
+<em class="emHot">å¥å¹»
+</em> </span> <span class="sTit">ä¸äº¬å¸è¡é¬¼</span> <span class="sDes">æ´æ°ï¼2017-6-25</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av1859406/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS9scGljL3M2MzMwMTcyLmpwZw==&sign=yx:aktnR6p8DT3ZhsTwcThz-F34rP4=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.0
+<em class="emHot">ä¸§å°¸
+</em> </span> <span class="sTit">å«åªä¸åµå°¸</span> <span class="sDes">æ´æ°ï¼2017-6-24</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://video.tudou.com/v/XMzM3Nzk0MjQ4.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzE4NDcvdmlkLzc3ZjQ5MzUxNDU1MjdlYmI3NDc2N2YxYmMxMzA4MDc5LmpwZw==&sign=yx:FW0s3D0APkMV_KkMd7SrH3tZw8o=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.6
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">äººå·¥æºè½</span> <span class="sDes">æ´æ°ï¼2017-6-23</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1708586" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2kyLmh1bmFudHYuY29tL3AxLzIwMTUwMzEzLzExMzEzNDY1OTRDLmpwZ18yMjB4MzA4LmpwZw==&sign=yx:avFbI90gTVWkBMouPfRCMopSb54=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.9
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">æï¼æºå¨äºº</span> <span class="sDes">æ´æ°ï¼2017-6-23</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av3973931/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2kuZ3RpbWcuY24vcXFsaXZlL2ltZy9qcGdjYWNoZS9maWxlcy9xcXZpZGVvL3QvdDk4cDJ3Z25uMHY1bmpiLmpwZw==&sign=yx:62wnXS1wREqUZmBi6gmzihX_tcI=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">äººæ§
+</em> </span> <span class="sTit">é©å¬ä¸»</span> <span class="sDes">æ´æ°ï¼2017-6-23</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/subject/22" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvMGQvZTkvZWQvNGI1Mjc5Mzk3NjJlM2RmMWUxODU5YzljNmMuanBn&sign=yx:alC-ySTeN1ZP9cREXcEXRnFboVE=&tv=250_250&x.jpg" alt="">
+<span class="sNum">ä¸è¾
+<em class="emHot">åå§
+</em> </span> <span class="sTit">åå§ä¹çå¨æé©°</span> <span class="sDes">æ´æ°ï¼2017-6-22</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#https://www.bilibili.com/video/av1650617/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170622gai.jpg" alt="">
+<span class="sNum">7.8
+<em class="emHot">åå§
+</em> </span> <span class="sTit">è¯¥æ­»çæ­å¾·1</span> <span class="sDes">æ´æ°ï¼2017-6-22</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av5642468" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170622gai2.jpg" alt="">
+<span class="sNum">6.8
+<em class="emHot">åå§
+</em> </span> <span class="sTit">è¯¥æ­»çæ­å¾·2</span> <span class="sDes">æ´æ°ï¼2017-6-22</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/subject/212" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzgxMTcvdmlkLzcyYzliZDc5Zjg5OTlhZTUyZTAwYjczN2QwZjgyMmY1LmpwZw==&sign=yx:N7H_GeWrXO-4X0Tstz4VzqoR2Gc=&tv=250_250&x.jpg" alt="">
+<span class="sNum">æ¸åè§£æ
+<em class="emHot">ä¸è¾
+</em> </span> <span class="sTit">ç¾å½ææææ</span> <span class="sDes">æ´æ°ï¼2017-6-22</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1659920" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wNTQ3Njg2NzkyLmpwZw==&sign=yx:JS32ho995fV4jNaMGc5T61spVLQ=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.7
+<em class="emHot">
+</em> </span> <span class="sTit">å´­æ°ççæ´»</span> <span class="sDes">æ´æ°ï¼2017-6-22</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av4562951/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzQxOTMvdmlkL2I0YTRiZDAxMTliYmNjNGY0MWQyYzNkZjk4YzBmOTIzLmpwZw==&sign=yx:-eZHvlu0kskP5CuUY8pa6cfOZmA=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.8
+<em class="emHot">åé©
+</em> </span> <span class="sTit">å­å¤©ä¸å¤</span> <span class="sDes">æ´æ°ï¼2017-6-21</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=623336051" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wMjE4NDMzNjE5MS5qcGc=&sign=yx:3rYTuS2rsPx-xnsvCph4Z0SsPEw=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.6
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">èè ä¾ å¤§æè¶äººï¼æ­£ä¹é»æ</span> <span class="sDes">æ´æ°ï¼2017-6-21</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av11846570" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170620yue.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">å¥å¹»
+</em> </span> <span class="sTit">ææ¥çæä¸æ¨æ¥çä½ çº¦ä¼</span> <span class="sDes">æ´æ°ï¼2017-6-20</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av8609361/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzYyMzYvdmlkLzIzMzc1YTQ5N2ZhZTFjYjJhZjY5MDBlOTljYTAzZTg2LmpwZw==&sign=yx:uM6ShA3xGAgfwhblNL42U02sLCI=&tv=350_350&x.jpg" alt="">
+<span class="sNum">6.2
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">æ´æç¶ä¹æ</span> <span class="sDes">æ´æ°ï¼2017-6-20</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=624069004" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltYWdlMTEubTE5MDUuY24vbWRiL3VwbG9hZGZpbGUvMjAxNi8wNjA2L3RodW1iXzFfMzUwXzU3Ml8yMDE2MDYwNjA0MTYwNzE4MjgxNS5qcGc=&sign=yx:r8oI15478n486bzh4j2EagsUGyE=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.6
+<em class="emHot">åé©
+</em> </span> <span class="sTit">æ³°å±±å½æ¥</span> <span class="sDes">æ´æ°ï¼2017-6-20</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av1264587" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzEzODEvdmlkLzNmYjYyMDYxM2QzODY3MzY5YTYyYzA2Y2NiZDEzMzllLmpwZw==&sign=yx:zTi0c_GF12pSsb6pk7yNyJLPb8E=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.9
+<em class="emHot">å¬æ³ªå¼¹
+</em> </span> <span class="sTit">ä¸ä¸</span> <span class="sDes">æ´æ°ï¼2017-6-19</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#https://www.bilibili.com/video/av1120208/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzk2MS92aWQvN2U1N2FkNzljNzdhYzI1YmYwZjJjOWZlZjhjYzU2OTEuanBn&sign=yx:uU2NYwD1C_in5OPP0cUz2968OGQ=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">ç±æ
+</em> </span> <span class="sTit">æå¥½çæ¶å</span> <span class="sDes">æ´æ°ï¼2017-6-19</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av2016815/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170619qin.jpg" alt="">
+<span class="sNum">9.0
+<em class="emHot">å¬æ³ªå¼¹
+</em> </span> <span class="sTit">äº²ç±ç,ä¸è¦è·¨è¿é£æ¡æ±</span> <span class="sDes">æ´æ°ï¼2017-6-19</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av4566244/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS9scGljL3MxOTUzOTg1LmpwZw==&sign=yx:B9f7tfXatCFMt1qmo_xtwl-8Phg=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.0
+<em class="emHot">å¥å¹»
+</em> </span> <span class="sTit">ç«é¾å¸å½</span> <span class="sDes">æ´æ°ï¼2017-6-19</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av8188703/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzUxMTIvdmlkLzM1NzYzMGQ0MTI5MjVmMmIxODBhMTYwNzQwYzhjMzM0LmpwZw==&sign=yx:lmaFJHRJ3HOeeOv2sDKDxFGvLFc=&tv=250_250&x.jpg" alt="">
+<span class="sNum">9.0
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">é¥®é£ç·å¥³</span> <span class="sDes">æ´æ°ï¼2017-6-18</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=623683168" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3UzLnRkaW1nLmNvbS8wLzQ1LzIwNy8zODc4NDc5MzI0MjMyNzY4NDE0MDIxODIxMDUxMDEyMjgyMzQ1MC5qcGc=&sign=yx:360rXD86mJImGz2CGdd55rPPOTQ=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.1
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">è¡è²å°è³</span> <span class="sDes">æ´æ°ï¼2017-6-17</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av4096240" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzMzMzAvdmlkLzFhM2VkMGQxNGJkMDU1Mjc1MjgwNWEwYTUwZTEzNjFkLmpwZw==&sign=yx:eiuyyjDO2HoDDRb7cOeshgyL5Zk=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.9
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">è¶æ¶ç©ºæ¥çµ</span> <span class="sDes">æ´æ°ï¼2017-6-17</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=627509619" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZy5hbGljZG4uY29tL2Jhby91cGxvYWRlZC9pMy9UQjEuNkJqT3BYWFhYYkVYVlhYWFhYWFhYWFhfLmpwZw==&sign=yx:j7D-_Wza0qElkVuckH-UiRlT7Ak=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.7
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">éåéª·é«å²</span> <span class="sDes">æ´æ°ï¼2017-6-17</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10664492" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzY3OTAvdmlkLzQxNWRhMWI3ODBkODVjZTcwOGU4ODQ1ODM5OTFiYWUzLmpwZw==&sign=yx:mKAIx0Fq208WgKd48b2DTCCE6gs=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.1
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">æ¶å¥³è±é­</span> <span class="sDes">æ´æ°ï¼2017-6-16</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=627910577" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZy5hbGljZG4uY29tL2Jhby91cGxvYWRlZC9pMS9UQjEwaFZHUFZYWFhYY3RYVlhYWFhYWFhYWFhfLmpwZw==&sign=yx:BXX4wF97kcgH2herZjmqaJbzcOU=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.0
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">åæ¬¢ä½ </span> <span class="sDes">æ´æ°ï¼2017-6-16</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/386300" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzc5NDEvdmlkLzQ4ZjliZTlkN2Y2ZjgyYTYzYjM1MTIxZGEyMTUyMmEzLmpwZw==&sign=yx:Pb0YBY8OE0TSyjWoRcz9Crj8SoU=&tv=250_250&x.jpg" alt="">
+<span class="sNum">9.1
+<em class="emHot">åå§
+</em> </span> <span class="sTit">ä¸å»å¤§é¹å®è±å</span> <span class="sDes">æ´æ°ï¼2017-6-16</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#https://www.bilibili.com/video/av1644331/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wMjE5MjgwNzI2Ny5qcGc=&sign=yx:hDb0bQUluP1YDxRQuVjq-6-mAzY=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.6
+<em class="emHot">æ«æ¥å¨ç»
+</em> </span> <span class="sTit">å·¾å¸¼æ³ç</span> <span class="sDes">æ´æ°ï¼2017-6-16</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=625241977" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzk4NzIvdmlkLzUyMTUwMmVjYzg0YjgwNTMwYzc5ZTFhYTMzZjQyYWJmLmpwZw==&sign=yx:YLpuYH_mw0fam9wkWaACnQdYamw=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.6
+<em class="emHot">æ«æ¥å¨ç»
+</em> </span> <span class="sTit">æºå¨äºº9å·</span> <span class="sDes">æ´æ°ï¼2017-6-15</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av1713374" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2kuZ3RpbWcuY24vcXFsaXZlL2ltZy9qcGdjYWNoZS9maWxlcy9xcXZpZGVvLzQvNG1mbGt1bTFsNWJ6b3pzLmpwZw==&sign=yx:u3vsOOHrDg6x5517_-3YdexBnD8=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">ç±æ
+</em> </span> <span class="sTit">å±äºä½ çæçåæ</span> <span class="sDes">æ´æ°ï¼2017-6-15</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=624312850" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzY0MTUvdmlkLzNkMjQ1NWQxYjk3OTU2ZmY4YmM0MTA5ZDgzMzA4ODZiLmpwZw==&sign=yx:-BKZCA1pzLjBUoPnVZp9ZtTaa_Y=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.5
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">Kæå¼å®¢</span> <span class="sDes">æ´æ°ï¼2017-6-14</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=626938491" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvZmUvMTMvZDMvZDQyZTIyZjBlNmU4NjQ5ZGQ4ZTY3ZjBmMzguanBn&sign=yx:f-qYtSaEiqV09JQnzBzSTuE8GZY=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">æçå¤§æå¤ä¼ ï¼ä¾ çä¸å·</span> <span class="sDes">æ´æ°ï¼2017-6-14</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1613645" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3IzLnlraW1nLmNvbS8wNTBFMDAwMDUzMjkzQTQ5NjczNzlGMTdEQjAxNkM1Mg==&sign=yx:_7VsruOIMnPcZA1eyh_HCSFyB2M=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.6
+<em class="emHot">æäº
+</em> </span> <span class="sTit">300åå£«:å¸å½å´èµ·</span> <span class="sDes">æ´æ°ï¼2017-6-13</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av11010035" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170613wo.jpg" alt="">
+<span class="sNum">7.6
+<em class="emHot">åå§
+</em> </span> <span class="sTit">ææ¯ä½ çç¼</span> <span class="sDes">æ´æ°ï¼2017-6-13</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1567855" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltYWdlMS53ZWJzY2FjaGUuY29tL2JhaWtlL2hhaWJhby9zbWFsbC8yMDA4LTEyLzIwMjYxNzIyOS02MS0yMDA4LTEyLTA0JTIwMTAtMzEtMjcuanBn&sign=yx:yBgsp8lKlsDpk02UCah2mO-JYbg=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.1
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">é¹°ç¼</span> <span class="sDes">æ´æ°ï¼2017-6-13</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=624729965" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvMWUvNDEvOGUvZjA4MjJlOWZlOTNmZTg2OWNkYTM5OGE3MjEuanBn&sign=yx:U9OyTzMQNMeltsd9S9kGmw5JyHk=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.1
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">æ®ç½ç±³ä¿®æ¯</span> <span class="sDes">æ´æ°ï¼2017-6-12</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.yunruiad.net/#!/video/1613754" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3IyLnlraW1nLmNvbS8wNTBFMDAwMDUxRDUyREQ3Njc1ODM5MkM3NTBEMUZBOA==&sign=yx:dCBHZi4nZgGKu2xR9_EI741bSTo=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">æ¯æå</span> <span class="sDes">æ´æ°ï¼2017-6-12</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10106879/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.yunruiad.net/weixin/game1/move_files/20170612shao.jpg" alt="">
+<span class="sNum">7.9
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">å¯»å®å°å¹´ç¯</span> <span class="sDes">æ´æ°ï¼2017-6-12</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://m.le.com/vplay_1303706.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzY4MjIvdmlkLzc4ODJhMjU2NWJkMjY5ZjkwNzFjMmNiYzQ5MzM2NDlmLmpwZw==&sign=yx:9u4wEZAirwugO_zE6H8R4OcKtbM=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.0
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">åè£æä¾£</span> <span class="sDes">æ´æ°ï¼2017-6-11</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://m.le.com/vplay_2058137.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzIwMzMvdmlkLzQ3MjRkNzhlZjcyMGNmZWU2YTMxMTQ4Nzg1YTE5OWQ1LmpwZw==&sign=yx:3AMSqaC7rVpDkBiAkDzIfDPP9yk=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.7
+<em class="emHot">å¨ç»
+</em> </span> <span class="sTit">è¤ç«è«ä¹å¢ </span> <span class="sDes">æ´æ°ï¼2017-6-11</span> </a> </div>
+</li>
+=
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av6640676" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzY5NzMvdmlkLzUyZmJlMTU0NzUyNzdlNjY1NTk5YjBiZmE3MjEwZWMzLmpwZw==&sign=yx:VmYyAsJ0PHqlJrjDV9xjmxFTmiw=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.1
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">åæä¸å¨ä¸¤å¤©</span> <span class="sDes">æ´æ°ï¼2017-6-10</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av11122862/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzYxNTYvdmlkLzUwZDExMTIzYWNiY2IzZTFkZjQyNDU2ODMyNWVkMDM4LmpwZw==&sign=yx:8mok5glfQZPue_SADsjUourAuhc=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.1
+<em class="emHot">ç§å¹»
+</em> </span> <span class="sTit">å¥ä¾µèç»è</span> <span class="sDes">æ´æ°ï¼2017-6-9</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/381923" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzIwNDQvdmlkL2Q3NWYxMGFjMThkOWY3OGNlYmNiYmU1OTlmYjY0NDI1LmpwZw==&sign=yx:mfftOuUBOsCapJgF9cRUTa0CumE=&tv=250_250&x.jpg" alt="">
+<span class="sNum">9.0
+<em class="emHot">æµ·æ´æ¥
+</em> </span> <span class="sTit">æµ·æ´</span> <span class="sDes">æ´æ°ï¼2017-6-8</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av5966240/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2kzLmh1bmFudHYuY29tL3AxLzIwMTUxMTI0LzE1MTIyNjE0MzRDLmpwZ18yMjB4MzA4LmpwZw==&sign=yx:sZlkAb3ivudvf1zEvBwv6eopu94=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.0
+<em class="emHot">ææ
+</em> </span> <span class="sTit">å¹¸å­çå¥³å­©</span> <span class="sDes">æ´æ°ï¼2017-6-7</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av4846348" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170607hui.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">ç¯ç½ª
+</em> </span> <span class="sTit">æè¿çå¥³äºº</span> <span class="sDes">æ´æ°ï¼2017-6-7</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://m.miguvideo.com/wap/resource/migu/detail/Detail.jsp?cid=627238920" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvY2QvNGMvOTYvYjM5ZWZkMTk3Njg3NmUwZmJiZjdiODEzZGQuanBn&sign=yx:Cy1IsYzlW6qFzZNB3whUxfNXrdw=&tv=250_250&x.jpg" alt="">
+<span class="sNum">5.3
+<em class="emHot">åå§
+</em> </span> <span class="sTit">æå®æ²¡å®</span> <span class="sDes">æ´æ°ï¼2017-6-7</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://video.tudou.com/v/XMjc3Mjk0MTQxNg==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzQ0OTIvdmlkL2ViNmFiZTA1NGI1Mzc2ZDBlY2Y1N2RjNTNhOTllODUzLmpwZw==&sign=yx:ao5VwyP9tvwrycN8s2kNG7efNBg=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.2
+<em class="emHot">çµå½±ç</em> </span> <span class="sTit">ç½é¹¿å</span> <span class="sDes">æ´æ°ï¼2017-6-6</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/109264" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzIyODMvdmlkL2ZmZWI0NWMwNGFlMzIxNTdjZjI3OWI5NGU3YjJhYjA0LmpwZw==&sign=yx:8NaLTSsMeMX5HrgnN-mEoAueccM=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.7
+<em class="emHot">ç¯ç½ª
+</em> </span> <span class="sTit">ç¯å²­è¡å°å¹´æäººäºä»¶</span> <span class="sDes">æ´æ°ï¼2017-6-5</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/1608209" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzUucWl5aXBpYy5jb20vaW1hZ2UvcWl0YW4vcWl0YW5fMWY5NjY0ODA2NDc4NDcwZmFmZGVjY2NmNjVkNmFhMjhfMTk1eDI2MC5qcGc=&sign=yx:ym7UAhaP5G1UE6kHUGOsj-NiTpk=&tv=350_350&x.jpg" alt="">
+<span class="sNum">6.8
+<em class="emHot">ç±æ
+</em> </span> <span class="sTit">20å²çå·®è·</span> <span class="sDes">æ´æ°ï¼2017-6-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/45" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170405jin.jpg" alt="">
+<span class="sNum">9.2
+<em class="emHot">å¨ç»</em> </span> <span class="sTit">è¿å»çå·¨äººäº</span> <span class="sDes">æ´æ°ï¼2017-6-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://video.tudou.com/v/XMTc4NjA2NDYxNg==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzc2MTEvdmlkLzE1NTllMmMwMDg0ZDc3Y2NmNmFjNzg4NzZiMGQ5YjY3LmpwZw==&sign=yx:w77McA2swSkinztKxftE2JFedTk=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.9
+<em class="emHot">å¨ä½
+</em> </span> <span class="sTit">äºè·¯è¿½æä»¤</span> <span class="sDes">æ´æ°ï¼2017-6-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://video.tudou.com/v/XMjc5MTU3MTI2NA==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170528jiu.jpg" alt="">
+<span class="sNum">6.9
+<em class="emHot">æ¬ç</em> </span> <span class="sTit">æå½è§£è¯ </span> <span class="sDes">æ´æ°ï¼2017-6-4</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av4535127/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL3UzLnRkaW1nLmNvbS80LzIyOC8zMy8xNTUwMDI3OTY2ODkyNTkzNDE4MTY4OTc0NDI0NTkxMTA1NjMzMTQuanBn&sign=yx:dEqFp-FZzEKhb9GdZM_dr8kJVhY=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.7
+<em class="emHot">å¨ä½
+</em> </span> <span class="sTit">éç§èä¼å¤§</span> <span class="sDes">æ´æ°ï¼2017-6-3</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av6192272/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170603lang.jpg" alt="">
+<span class="sNum">6.0
+<em class="emHot">ææ
+</em> </span> <span class="sTit">ç¼äººæ¸¸æ</span> <span class="sDes">æ´æ°ï¼2017-6-3</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av2128004/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wMjE5MTYzNzEzMS5qcGc=&sign=yx:C8SW5UT3yNV4P_Xmo54CGLRlHVY=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">ç±çå°±æ¯ä½ </span> <span class="sDes">æ´æ°ï¼2017-6-2</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av4094076/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170602she.jpg" alt="">
+<span class="sNum">6.8
+<em class="emHot">ç¯ç½ª
+</em> </span> <span class="sTit">èèç¾äºº</span> <span class="sDes">æ´æ°ï¼2017-6-2</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av1589338" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wMjE5MTY3MDcxNS5qcGc=&sign=yx:JOycGsbU18OI5Re5BHj-ntfNz2M=&tv=250_250&x.jpg" alt="">
+<span class="sNum">8.3
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">çå½å¦æ­¤ç¾å¥½</span> <span class="sDes">æ´æ°ï¼2017-6-1</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/210483" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzI3MjEvdmlkL2JhMzc5NDg5Njk1M2M0NDhiOTU1YmYzOTBhODIwY2E2LmpwZw==&sign=yx:44MxjkT56WkYeO1AK6WDlsPjXSI=&tv=250_250&x.jpg" alt="">
+<span class="sNum">9.1
+<em class="emHot">å¨ç»
+</em> </span> <span class="sTit">é¾ç«</span> <span class="sDes">æ´æ°ï¼2017-6-1</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://video.tudou.com/v/XMjc5NTg3NTkyMA==.html" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170525sheng.jpg" alt="">
+<span class="sNum">7.7
+<em class="emHot">ææ
+</em> </span> <span class="sTit">çå</span> <span class="sDes">æ´æ°ï¼2017-5-31</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://m.acfun.cn/v/?ac=1840590" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzY5MTYvdmlkLzE5YTFmOTNiZWI3ODM3NjQyNjdhNDBiMGE4ODRhZjZkLmpwZw==&sign=yx:c8HICeI6R76kEj3Yag6PqvcpETE=&tv=250_250&x.jpg" alt="">
+<span class="sNum">6.0
+<em class="emHot">å¥å¹»
+</em> </span> <span class="sTit">ç½éªå¬ä¸»é­éé­é</span> <span class="sDes">æ´æ°ï¼2017-5-31</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://m.acfun.cn/v/?ac=3444952" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZ2Nkbi50di51Yy5jbjo4MDgwL1BpY3MvNGMvOGEvZmUvZTZlNzJkYmUyZThmZDcwYjQ4M2M3ZWYzMDUuanBn&sign=yx:qUtMwSglROwfDhryb2tJ3a8zxL0=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.3
+<em class="emHot">å¥å¹»
+</em> </span> <span class="sTit">é­æ³éªè±</span> <span class="sDes">æ´æ°ï¼2017-5-31</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://m.acfun.cn/v/?ac=3720126" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170531qi.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">å§æ
+</em> </span> <span class="sTit">çå¥¶å·¥çå¥å¹»äººç</span> <span class="sDes">æ´æ°ï¼2017-5-31</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10713499" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170530he.jpg" alt="">
+<span class="sNum">7.2
+<em class="emHot">å§æ</em> </span> <span class="sTit">ä½è</span> <span class="sDes">æ´æ°ï¼2017-5-30</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av6718910" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzU1NjYvdmlkL2M1Mzk5MGI2MTA1N2YwYmQ0MWUwMzNjMmMxZjg0ZjU4LmpwZw==&sign=yx:DeXlrMVOZAAFd8eLICK2H_Xnoiw=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.0
+<em class="emHot">å§æ</em> </span> <span class="sTit">èªæä¸ååº</span> <span class="sDes">æ´æ°ï¼2017-5-30</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av9147543/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzM2LnBwbGl2ZS5jbi8yMDExLzA5LzE1LzExMTEwMjQzMjY3XzIzMFgzMDYuanBn&sign=yx:4Iwgqz6ylHfB_GkRIScTBF_JsDo=&tv=350_350&x.jpg" alt="">
+<span class="sNum">7.6
+<em class="emHot">å§æ</em> </span> <span class="sTit">æå¸æçç·äºº</span> <span class="sDes">æ´æ°ï¼2017-5-27</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/61" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170527cang.jpg" alt="">
+<span class="sNum">8.6
+<em class="emHot">æ±¡å¨ç»</em> </span> <span class="sTit">ä»é¼ ç®¡å®¶</span> <span class="sDes">æ´æ°ï¼2017-5-27</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10954422" target="_self"> <img height="135" src="http://fuck.yunr	uiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2kuZ3RpbWcuY24vcXFsaXZlL2ltZy9qcGdjYWNoZS9maWxlcy9xcXZpZGVvL2UvZXRvbjZuNzd5bjYxaXRqLmpwZw==&sign=yx:Vt6CtRbPUlPo2UAQNY9c81aXeb4=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.0
+<em class="emHot">å¨ä½</em> </span> <span class="sTit">ç¾éè¿½æ[1]</span> <span class="sDes">æ´æ°ï¼2017-5-26</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10902299" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://fuck.yunruiad.net/weixin/game1/move_files/20170525qi.jpg" alt="">
+<span class="sNum">7.4
+<em class="emHot">å§æ</em> </span> <span class="sTit">è°è¨å·«å¸</span> <span class="sDes">æ´æ°ï¼2017-5-25</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10502277/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170525xi.jpg" alt="">
+<span class="sNum">7.2
+<em class="emHot">åå§</em> </span> <span class="sTit">æçåå</span> <span class="sDes">æ´æ°ï¼2017-5-25</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/60" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170525tong.jpg" alt="">
+<span class="sNum">7.5
+<em class="emHot">å°å§</em> </span> <span class="sTit">éçµå°å¥³</span> <span class="sDes">æ´æ°ï¼2017-5-25</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10782997" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170524gao.jpg" alt="">
+<span class="sNum">3.3
+<em class="emHot">ææ</em> </span> <span class="sTit">é«å¤§çç·äºº</span> <span class="sDes">æ´æ°ï¼2017-5-24</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/1622461" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZy5tb3ZpZS5rYW5rYW4ua2FuaW1nLmNvbS8xNTB4MjEwLzEyNTEvNDMxNTJhYjVlMGUyZGQ2ZjUxNjdkMjk5NjZlNjU1NjAuanBn&sign=yx:m0HrNQyASGgyKe7m4iBZesDB5G0=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.7
+<em class="emHot">å§æ</em> </span> <span class="sTit">æ¨æ¿</span> <span class="sDes">æ´æ°ï¼2017-5-23</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10739784/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170523man.jpg" alt="">
+<span class="sNum">6.4
+<em class="emHot">åå§</em> </span> <span class="sTit">è®å¥½ä¾¦æ¢</span> <span class="sDes">æ´æ°ï¼2017-5-23</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://www.19m.tv/#!/video/1747199" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2kwLmxldHZpbWcuY29tL2xjMDVfaXN2cnMvMjAxNzA1LzIxLzAwLzQxL2Y0Yzg4ZmUzLTU0NmQtNGZiYS1iMTc1LWU1YmI0MTE2YWU5Ni5qcGc=&sign=yx:vqD9_QX3XoTouLXG2a1_hAxdql0=&tv=250_250&x.jpg" alt="">
+<span class="sNum">7.7
+<em class="emHot">ç§å¹»</em> </span> <span class="sTit">BLAME</span> <span class="sDes">æ´æ°ï¼2017-5-23</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10693366" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzQudGJjZG4uY24vTDEvMTYxLzc1NDUvdmlkLzgzN2U1NDRkZWU4OGMyMjI5MDYxNzI0YTdmYjNiNjNlLmpwZw==&sign=yx:Li5KXwFLX9Pz0CqzflBoDODFXlU=&tv=350_350&x.jpg" alt="">
+<span class="sNum">ç¯ç½ª
+<em class="emHot">å§æ</em> </span> <span class="sTit">è¡æºåä¸å·è­¦ç½²</span> <span class="sDes">æ´æ°ï¼2017-5-22</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10799631" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170519sha.jpg" alt="">
+<span class="sNum">å§æ
+<em class="emHot">å¨ç»</em> </span> <span class="sTit">æåæ</span> <span class="sDes">æ´æ°ï¼2017-5-19</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av9679170" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170518ta.jpg" alt="">
+<span class="sNum">å§æ
+<em class="emHot">è´é</em> </span> <span class="sTit">å¥¹å¦å¦çå¬ä¸»</span> <span class="sDes">æ´æ°ï¼2017-5-18</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10591202/" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wNzkwMTMyMDk0LmpwZw==&sign=yx:3zcd2umKthRI_XzuwSga3WQE7Bc=&tv=250_250&x.jpg" alt="">
+<span class="sNum">å§æ
+<em class="emHot">ç©¿è¶</em> </span> <span class="sTit">éè¿å°å¹´æ¶</span> <span class="sDes">æ´æ°ï¼2017-5-18</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av1221915" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://s2.zimgs.cn/ims?kt=url&at=sc&key=aHR0cDovL2ltZzMuZG91YmFuLmNvbS92aWV3L21vdmllX3Bvc3Rlcl9jb3Zlci9scHN0L3B1YmxpYy9wMjE1NTY4MzMwMy5qcGc=&sign=yx:OrGThH3ksCEuYMISrYqgXI6zY5I=&tv=250_250&x.jpg" alt="">
+<span class="sNum">å¥å¹»
+<em class="emHot">å¸è¡é¬¼</em> </span> <span class="sTit">å¯ç±æ°¸ç</span> <span class="sDes">æ´æ°ï¼2017-5-18</span> </a> </div>
+</li>
+<li>
+<div class="con"> <a href="http://fuck.yunruiad.net/forward.html#http://www.bilibili.com/video/av10608604" target="_self"> <img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="http://cdn.39card.cn/weixin/game1/move_files/20170517wo.jpg" alt="">
+<span class="sNum">æäº
+<em class="emHot">é«å</em> </span> <span class="sTit">æ²ä¼¦</span> <span class="sDes">æ´æ°ï¼2017-5-17</span> </a> </div>
+</li>
+</ul>
+</div>
+<script type="text/javascript">
+	
+    var tabLoadEnd = false;
+    // tab
+    var counter = 0;
+    // æ¯é¡µå±ç¤º1ä¸ª
+    var num = 3*8;
+    var pageStart = 0,pageEnd = 0;
+	
+	var pageName = 'index_junmove_page_';
+   if (typeof(Storage) !== "undefined" && typeof(sessionStorage[pageName+'num']) !== "undefined" &&  typeof(sessionStorage[pageName]) !== "undefined" &&sessionStorage[pageName+'num']>0) {
+						var result = '';
+                        counter=sessionStorage[pageName+'num']+1;
+						var data = JSON.parse(sessionStorage[pageName]);
+						pageEnd = num * counter;
+						var target=[];
+						for (var key in data.lists) {
+							target.push(data.lists[key]);
+						}
+                        if(pageStart <= target.length){
+                            for(var i = pageStart; i < pageEnd; i++){
+                                result += '<li><div class="con"><a href="'+target[i].url+'" target="_self">'+
+								'<img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="'+target[i].pic+'" alt=""/> <span class="sNum">'+target[i].span+'<em class="emHot">'+target[i].emHot+'</em> </span>'
+								+'<span class="sTit">'+target[i].title+'</span>'
+								+'<span class="sDes">'+target[i].date+'</span>'
+								+'</a></div></li>';
+								if((i + 1) >= target.length){
+                                    // æ°æ®å è½½å®
+                                    tabLoadEnd = true;
+                                    break;
+                                }
+                            }
+                            $('#movieul').append(result);
+                                // æ¯æ¬¡æ°æ®å è½½å®ï¼å¿é¡»éç½®
+                        }
+    	
+    }
+    // dropload
+    var dropload = $('.content').dropload({
+        scrollArea : window,
+        loadDownFn : function(me){
+            $.ajax({
+                    type: 'GET',
+                    url: 'http://sk.yunruiad.net/movie/jsonp/movie.json?abd',
+					cache : true,
+                    dataType: 'jsonp',
+					jsonp: "callback",
+                    jsonpCallback:"jsonp",
+                    success: function(data){
+                        var result = '';
+						if (typeof(Storage) !== "undefined") {
+                    		sessionStorage.setItem(pageName, JSON.stringify(data));
+                    		sessionStorage.setItem(pageName+'num', counter);
+                    	}
+                        counter++;
+                        pageEnd = num * counter;
+                        pageStart = pageEnd - num;
+						var target=[];
+						for (var key in data.lists) {
+							target.push(data.lists[key]);
+						}
+                        if(pageStart <= target.length){
+                            for(var i = pageStart; i < pageEnd; i++){
+                                result += '<li><div class="con"><a href="'+target[i].url+'" target="_self">'+
+								'<img height="135" src="http://fuck.yunruiad.net/weixin/game1/img/loading.jpg" alt="" data-echo="'+target[i].pic+'" alt=""/> <span class="sNum">'+target[i].span+'<em class="emHot">'+target[i].emHot+'</em> </span>'
+								+'<span class="sTit">'+target[i].title+'</span>'
+								+'<span class="sDes">'+target[i].date+'</span>'
+								+'</a></div></li>';
+                                if((i + 1) >= target.length){
+                                    // æ°æ®å è½½å®
+                                    tabLoadEnd = true;
+                                    // éå®
+                                    me.lock();
+                                    // æ æ°æ®
+                                    me.noData();
+                                    break;
+                                }
+                            }
+                            $('#movieul').append(result);
+                                // æ¯æ¬¡æ°æ®å è½½å®ï¼å¿é¡»éç½®
+                            me.resetload();
+                        }
+						else
+						{
+									me.lock();
+                                    // æ æ°æ®
+                                    me.noData();
+									me.resetload();
+						}
+                    },
+                    error: function(xhr, type){
+                       // alert('Ajax error!');
+                        // å³ä½¿å è½½åºéï¼ä¹å¾éç½®
+                       me.resetload();
+                    }
+                });
+        }
+    });
+
+var currUrl = window.location.href.replace(window.location.hash, '');
+var  weixinurl='http://yuntv.cswanda.com/weixin/weixinConfig.php?url=' + encodeURIComponent(currUrl);
+ $.ajax({
+	type: 'GET',
+	url: weixinurl,
+	cache: true,
+	dataType: 'json',
+	jsonpCallback: "jsonp",
+	success: function(data) {
+		wx.config({
+			debug: false,
+			appId: data.appId,
+			timestamp: data.timestamp,
+			nonceStr: data.nonceStr,
+			signature: data.signature,
+			jsApiList: ['checkJsApi', 'onMenuShareTimeline', 'onMenuShareAppMessage', 'onMenuShareQQ', 'onMenuShareWeibo']
+		})
+	},
+	error: function(xhr, type) {
+	}
+});
+  
+  wx.ready(function () {
+  var shareData = {
+   	 title:'çææ°æç«çµå½±å³æ³¨è¿ä¸ªå·å°±å¯¹äº', // åäº«æ é¢
+	  desc:'æçäºè§å¾ä¸é,æ¨èç»ä½ ',
+      link:'http://m.yunruiad.net/junfriend.php', // åäº«é¾æ¥
+	  imgUrl:'http://cdn.39card.cn/weixin/game1/move_files/20170628shuai.jpg', // åäº«å¾æ 
+      trigger: function (res) {
+   //      alert('ç¨æ·ç¹å»åéç»æå');
+      },
+      success: function (res) {
+    //    alert('æè°¢åäº«ï¼åå¤[çº¢å]æ¢çº¢å');
+      },
+      cancel: function (res) {
+        alert("å«è¿æ ·çå¦ï¼å¥½ä¸è¥¿è¦åæåä»¬åäº«åï¼");
+//        location.href = '<?php echo $weixin_url; ?>';
+      },
+      fail: function (res) {
+//        alert(JSON.stringify(res));
+      }
+  };
+  wx.onMenuShareAppMessage(shareData);
+  wx.onMenuShareTimeline(shareData);
+  wx.onMenuShareQQ(shareData);
+  wx.onMenuShareWeibo(shareData);
+});
+wx.error(function (res) {
+ // alert(res.errMsg);
+}); 
+
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "//hm.baidu.com/hm.js?543b17a20240576bea0ecb6413c6d2f3";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})()
+
+
+
+</script>
+</body>
+</html>
