@@ -69,7 +69,7 @@ class WeixinInterface:
 	        #        gxtp=pic.get_one_pic(pic.get_lists(url)) 
 	        #        return self.render.reply_text(fromUser,toUser,int(time.time()),"http://"+gxtp)
 	        #    	sys.exit()
-	        if re.split(':|：',content.encode("utf-8"))[0]=="美剧":
+	    if re.split(':|：',content.encode("utf-8"))[0]=="美剧":
                 mjmz = re.split(':|：', content.encode("utf-8"))[1]
                 cont=get_ttmj.get_mj(mjmz)
                 return self.render.reply_text(fromUser,toUser,int(time.time()),cont)
