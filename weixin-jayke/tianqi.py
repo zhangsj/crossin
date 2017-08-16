@@ -8,7 +8,7 @@ def rinfo(self):
     wendu1=self.get('low')
     wendu2=self.get('high')
     tq=self.get('type')
-    fl=self.get('fengli')
+    fl=self.get('fengli')[10:-3]
     fx=self.get('fengxiang')
     return riqi,tq,fl,fx,wendu1,wendu2
 #展示天气信息
