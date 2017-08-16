@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 def get_mj(mjmz):
     auth_url = 'http://www.ttmeiju.com/index.php/user/login.html'
     data = {
-        'password': 'a226385906',
-        'username': 'jayke'
+        'password': 'xxxxx',
+        'username': 'xxxxxx'
     }
     headers = {
         "Host": "www.ttmeiju.com",
